@@ -8,5 +8,6 @@ namespace AppBuscaCep.Models
 {
     internal class Bairro
     {
+        public string descricao_bairro { get; set; }
     }
 }
